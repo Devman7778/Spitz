@@ -26,8 +26,8 @@ Functions Checksum:
 0x4fbee193 - isExcludedFromFees(address)
 0x0f3a325f - isSniper(address)
 0x4a62bb65 - limitsInEffect()
-0xc8c8ebe4 - maxTransactionAmount() => 30000000000000000000000000
-0xf8b45b05 - maxWallet() => 30000000000000000000000000
+0xc8c8ebe4 - maxTransactionAmount() => 30000000000000000000000000 (3.0%)
+0xf8b45b05 - maxWallet() => 30000000000000000000000000 (3.0%)
 0xbd41dbac - modifyFees(uint256,uint256)
 0x06fdde03 - name()
 0x8da5cb5b - owner()
